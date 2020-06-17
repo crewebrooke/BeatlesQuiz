@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Beatles Quiz</string>
+
+    <!-- The user to read and understand question one -->
+    <string name="question_1">Which of The Beatles are alive as of 2018?</string>
+
+    <!-- The text to display incorrect answer to Q1 -->
+    <string name="answerGeorge">George Harrison</string>
+
+    <!-- The text to display correct answer to Q1 -->
+    <string name="answerRingo">Ringo Starr</string>
+
+    <!-- The text to display correct answer to Q1 -->
+    <string name="answerPaul">Paul McCartney</string>
+
+    <!-- The user to read and understand question two -->
+    <string name="question_2">Which famous musician wasnt in The Beatles?</string>
+
+    <!-- The text to display incorrect answer to Q2 -->
+    <string name="answertwoJohn">John Lennon</string>
+
+    <!-- The text to display incorrect answer to Q2 -->
+    <string name="answertwoRingo">Ringo Starr</string>
+
+    <!-- The text to display correct answer to Q2 -->
+    <string name="answertwoEric">Eric Clapton</string>
+
+    <!-- The user to read and understand question three -->
+    <string name="question_3">The Beatles were previously known by what name?</string>
+
+    <!-- The text to display incorrect answer to Q3 -->
+    <string name="answerthreeJBand">John and The Crickets</string>
+
+    <!-- The text to display incorrect answer to Q3 -->
+    <string name="answerthreeSkiffle">The Skiffle Men</string>
+
+    <!-- The text to display correct answer to Q3 -->
+    <string name="answerthreeQuarry">The Quarrymen</string>
+
+    <!-- The user to read and understand question four -->
+    <string name="question_4">What was the last studio album called?</string>
+
+    <!-- The text to display incorrect answer to Q4 -->
+    <string name="answerAbbey">Abbey Road</string>
+
+    <!-- The text to display correct answer to Q4 -->
+    <string name="answerLet">Let It Be</string>
+
+    <!-- The text to display incorrect answer to Q4 -->
+    <string name="answerRevolver">Revolver</string>
+
+    <!-- The user to read and understand question five -->
+    <string name="question_5">What city were The Beatles from?</string>
+
+    <!-- Text display in the empty field for the user's guess [CHAR LIMIT=20] -->
+    <string name="name"></string>
+
+    <!-- Display score out of 5 [CHAR LIMIT=20] -->
+    <string name="score">Score</string>
+
+
+</resources>
